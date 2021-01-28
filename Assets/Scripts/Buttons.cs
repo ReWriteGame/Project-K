@@ -20,10 +20,17 @@ public class Buttons : MonoBehaviour
     {
         switch (gameObject.name)
         {
+
+
+
             case "Play":
                 //Application.OpenURL("http://google.com");// переход по интернет ссылке
                 Application.LoadLevel("Play");// загрузка уровня/локации
-                break;
+                break;  
+
+
+
+
         }
     }
 }
