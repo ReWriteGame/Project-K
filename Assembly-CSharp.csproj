@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\Buttons.cs" />
     <Compile Include="Assets\Scripts\Cube.cs" />
     <Compile Include="Assets\Scripts\TestPhis.cs" />
+    <Compile Include="Assets\Scripts\qwer.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/LOFT2/KOMP/New Game/Project K/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

@@ -14,7 +14,7 @@ public class Cube : MonoBehaviour
         if (transform.position == target && target.y != 0.1f)
             target.y = 0.1f;
         else if (transform.position == target && target.y == 0.1f)
-            target.y = 1.39f;
+            target.y = 2f;
 
 
 
